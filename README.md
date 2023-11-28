@@ -26,3 +26,9 @@ Contributions are key to keeping our wiki current and dynamic. Please ensure tha
 <img src="https://img.shields.io/badge/Go_to_Wiki-ButtonColor.svg" alt="Button Label"/>
 </a>
 </p>
+
+---
+
+## Index
+
+* [Commit Structure](https://github.com/semantyk/.github/wiki/%F0%9F%8C%9F-Commit-Structure)
