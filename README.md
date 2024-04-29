@@ -6,7 +6,7 @@
   <br>
   <b>August 31, 2017</b>
   <br>
-  <i>Copyright © <a href="https://www.semantyk.com">Semantyk</a> 2023. All 
+  <i>Copyright © <a href="https://www.semantyk.com">Semantyk</a> 2024. All 
 rights 
 reserved.
 </i>
