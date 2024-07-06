@@ -6,7 +6,7 @@
 (prefers-color-scheme: dark)" />
     <source srcset="https://www.semantyk.com/favicon.svg" media="
 (prefers-color-scheme: light)" />
-    <img src="https://www.semantyk.com/favicon.png" alt="Semantyk" 
+    <img src="https://www.semantyk.com/favicon.svg" alt="Semantyk" 
 width="250" />
   </picture>
 </p>
