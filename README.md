@@ -9,14 +9,6 @@
     <img src="https://www.semantyk.com/icon.png" alt="Semantyk" 
 width="250" />
   </picture>
-  <br>
-  <br>
-  <b>August 31, 2017</b>
-  <br>
-  <i>Copyright © <a href="https://www.semantyk.com">Semantyk</a> 2024. All 
-rights 
-reserved.
-</i>
 </p>
 
 ---
@@ -39,3 +31,6 @@ Contributions are key to keeping our wiki current and dynamic. Please ensure tha
 ## Index
 
 * [Commit Structure](https://github.com/semantyk/.github/wiki/%F0%9F%8C%9F-Commit-Structure)
+
+---
+<i>Copyright © <a href="https://www.semantyk.com">Semantyk</a> 2024. All rights reserved.</i>
