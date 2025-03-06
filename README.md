@@ -6,7 +6,7 @@
 (prefers-color-scheme: dark)" />
     <source srcset="https://www.semantyk.com/favicon.svg" media="
 (prefers-color-scheme: light)" />
-    <img src="https://www.semantyk.com/favicon.svg" alt="Semantyk" 
+    <img src="https://www.semantyk.com/favicon.svg" alt="Semantyk"
 width="250" />
   </picture>
 </p>
@@ -33,4 +33,4 @@ Contributions are key to keeping our wiki current and dynamic. Please ensure tha
 * [Commit Structure](https://github.com/semantyk/.github/wiki/%F0%9F%8C%9F-Commit-Structure)
 
 ---
-<i>Copyright © <a href="https://www.semantyk.com">Semantyk</a> 2025. All rights reserved.</i>
+*[Semantyk](https://www.semantyk.com/) © 2025. All rights reserved.*
