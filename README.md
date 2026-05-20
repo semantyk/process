@@ -33,4 +33,4 @@ Contributions are key to keeping our wiki current and dynamic. Please ensure tha
 * [Commit Structure](https://github.com/semantyk/.github/wiki/%F0%9F%8C%9F-Commit-Structure)
 
 ---
-*[Semantyk](https://www.semantyk.com/) © 2025. All rights reserved.*
+*[Semantyk](https://www.semantyk.com/) © 2026. All rights reserved.*
